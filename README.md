@@ -47,7 +47,7 @@ This course discusses chapters from the book 『風刺画で読み解く近代�
 * Spielmann, Marion Harry. 1895. *The History of Punch*. Gale Research Company.
 * Wechsler, Judith. 1983. “Editor’s Statement: The Issue of Caricature.” *Art Journal* 43 (4): 317–18. https://doi.org/10.1080/00043249.1983.10792248.
 * Wu, I-Wei. 2013. “Participating in Global Affairs: The Chinese Cartoon Monthly Shanghai Puck.” In *Asian Punches: A Transcultural Affair*, edited by Hans Harder and Barbara Mittler, 365–87. Transcultural Research – Heidelberg Studies on Asia and Europe in a Global Context. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-28607-0_15.
-
+* 湯本豪一. 2011. 『風刺漫画で日本近代史がわかる本』. Tōkyō: 草思社.
 
 #### Homework
 

@@ -13,7 +13,17 @@ We will read and translate a recently published Japanese booklet on the modern J
 
 #### Course Material
 
+清水勲. 2015. 『風刺画で読み解く近代史』. 三笠書房.
 
+#### Topics to be covered:
+
+This course discusses chapters from the book 『風刺画で読み解く近代史』:
+
+* １章　幕末から明治１０年代まで（開国—日本、植民地化の危機！；戊辰戦争—西欧のにらみ合い　ほか）
+* ２章　明治２０年代（日清戦争—傑作風刺画が生まれた背景；レストラン—最先端西洋料理店の細密描写　ほか）
+* ３章　明治３０年代（列強クラブ—新入りに好奇の眼；金本位制—「金さん」が輝いた時代　ほか）
+* ４章　明治４０年代・大正時代（軍国主義時代の主役は誰？；伊藤博文—死者にムチ打つ風刺画　ほか）
+* ５章　昭和初期から第二次世界大戦まで（一枚に凝縮された、昭和初期の不況社会；低賃金を武器とするダンピング批判　ほか）
 
 #### Related Reading
 

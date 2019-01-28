@@ -2,6 +2,8 @@
 
 ### Modern Japanese History in Political Cartoons - 風刺画から見た日本近代史
 
+![成金](images/19379781_504403843237877_1064243572544372736_n.jpg)
+
 #### Course objectives:
 
 A central characteristic of modernity and modern society is the way in which it is both a) created and b) recreated by communication technologies. Gutenberg's printing press in particular was the catalyst that boosted the production of information to a degree the world had not seen before. It also heralded a revolution. As argued by [Elizabeth Eisenstein](https://en.wikipedia.org/wiki/Elizabeth_Eisenstein) and others, the printing press also defined newly developing social domains. Through the ways in which it combined the *dissemination*, *standardization* and *preservation* of information, it has abetted 'modern' scientific communication and the the notion of falsification, which is crucial to the latter.

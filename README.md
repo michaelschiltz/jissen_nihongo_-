@@ -9,7 +9,7 @@ Importantly, Gutenberg's invention also empowered dissent. The element of dissem
 
 #### Course Goals
 
-We will read and translate a recently published Japanese booklet on the modern Japanese political cartoon.
+We will read and translate a recently published Japanese book on the modern Japanese political cartoon.
 
 #### Course Material
 
@@ -29,19 +29,19 @@ This course discusses chapters from the book 『風刺画で読み解く近代�
 
 #### Related Reading
 
-Briggs, Jo. 2016. “‘The Gutta Percha Staff’: Between Respectable and Risqué Satire in 1848.” *Novelty Fair*, March. https://www.manchesterhive.com/view/9781784997038/9781784997038.00009.xml.
-Cayley, Seth, and Clare Horrocks. 2015. “The Punch Historical Archive, 1841–1992: A Sustainable Brand for the Digital Age.” *Victorian Periodicals Review* 48 (2): 238–43. https://doi.org/10.1353/vpr.2015.0024.
-Culbertson, Tom. 2008. “The Golden Age of American Political Cartoons.” *The Journal of the Gilded Age and Progressive Era* 7 (3): 277–95. https://doi.org/10.1017/S1537781400000724.
-Cuno, James. 1983. “Charles Philipon, La Maison Aubert, and the Business of Caricature in Paris, 1829–41.” *Art Journal* 43 (4): 347–54. https://doi.org/10.1080/00043249.1983.10792253.
-Harder, Hans. 2013. “Prologue: Late Nineteenth and Twentieth Century Asian Punch Versions and Related Satirical Journals.” In *Asian Punches: A Transcultural Affair*, edited by Hans Harder and Barbara Mittler, 1–11. Transcultural Research – Heidelberg Studies on Asia and Europe in a Global Context. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-28607-0_1.
-Higgie, Rebecca. 2017. “Under the Guise of Humour and Critique: The Political Co-Option of Popular Contemporary Satire.” In *Satire and Politics: The Interplay of Heritage and Practice*, edited by Jessica Milner Davis, 73–102. Palgrave Studies in Comedy. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-56774-7_3.
-Hotwagner, Sonja. 2013. “‘Punch’s Heirs’ Between the (Battle) Lines: Satirical Journalism in the Age of the Russo-Japanese War of 1904–1905.” In *Asian Punches: A Transcultural Affair*, edited by Hans Harder and Barbara Mittler, 337–64. Transcultural Research – Heidelberg Studies on Asia and Europe in a Global Context. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-28607-0_14.
-Kunzle, David. 1983. “Between Broadsheet Caricature and ‘Punch’: Cheap Newspaper Cuts for the Lower Classes in the 1830s.” *Art Journal* 43 (4): 339–46. https://doi.org/10.1080/00043249.1983.10792252.
-Palmeri, Frank. 2004. “Cruikshank, Thackeray, and the Victorian Eclipse of Satire.” *Studies in English Literature, 1500-1900* 44 (4): 753–77. https://www.jstor.org/stable/3844535.
-Rea, Christopher G. 2013. “‘He’Ll Roast All Subjects That May Need the Roasting’: Puck and Mr Punch in Nineteenth-Century China.” In *Asian Punches: A Transcultural Affair*, edited by Hans Harder and Barbara Mittler, 389–422. Transcultural Research – Heidelberg Studies on Asia and Europe in a Global Context. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-28607-0_16.
-Spielmann, Marion Harry. 1895. *The History of Punch*. Gale Research Company.
-Wechsler, Judith. 1983. “Editor’s Statement: The Issue of Caricature.” *Art Journal* 43 (4): 317–18. https://doi.org/10.1080/00043249.1983.10792248.
-Wu, I-Wei. 2013. “Participating in Global Affairs: The Chinese Cartoon Monthly Shanghai Puck.” In *Asian Punches: A Transcultural Affair*, edited by Hans Harder and Barbara Mittler, 365–87. Transcultural Research – Heidelberg Studies on Asia and Europe in a Global Context. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-28607-0_15.
+* Briggs, Jo. 2016. “‘The Gutta Percha Staff’: Between Respectable and Risqué Satire in 1848.” *Novelty Fair*, March. https://www.manchesterhive.com/view/9781784997038/9781784997038.00009.xml.
+* Cayley, Seth, and Clare Horrocks. 2015. “The Punch Historical Archive, 1841–1992: A Sustainable Brand for the Digital Age.” *Victorian Periodicals Review* 48 (2): 238–43. https://doi.org/10.1353/vpr.2015.0024.
+* Culbertson, Tom. 2008. “The Golden Age of American Political Cartoons.” *The Journal of the Gilded Age and Progressive Era* 7 (3): 277–95. https://doi.org/10.1017/S1537781400000724.
+* Cuno, James. 1983. “Charles Philipon, La Maison Aubert, and the Business of Caricature in Paris, 1829–41.” *Art Journal* 43 (4): 347–54. https://doi.org/10.1080/00043249.1983.10792253.
+* Harder, Hans. 2013. “Prologue: Late Nineteenth and Twentieth Century Asian Punch Versions and Related Satirical Journals.” In *Asian Punches: A Transcultural Affair*, edited by Hans Harder and Barbara Mittler, 1–11. Transcultural Research – Heidelberg Studies on Asia and Europe in a Global Context. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-28607-0_1.
+* Higgie, Rebecca. 2017. “Under the Guise of Humour and Critique: The Political Co-Option of Popular Contemporary Satire.” In *Satire and Politics: The Interplay of Heritage and Practice*, edited by Jessica Milner Davis, 73–102. Palgrave Studies in Comedy. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-56774-7_3.
+* Hotwagner, Sonja. 2013. “‘Punch’s Heirs’ Between the (Battle) Lines: Satirical Journalism in the Age of the Russo-Japanese War of 1904–1905.” In *Asian Punches: A Transcultural Affair*, edited by Hans Harder and Barbara Mittler, 337–64. Transcultural Research – Heidelberg Studies on Asia and Europe in a Global Context. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-28607-0_14.
+* Kunzle, David. 1983. “Between Broadsheet Caricature and ‘Punch’: Cheap Newspaper Cuts for the Lower Classes in the 1830s.” *Art Journal* 43 (4): 339–46. https://doi.org/10.1080/00043249.1983.10792252.
+* Palmeri, Frank. 2004. “Cruikshank, Thackeray, and the Victorian Eclipse of Satire.” *Studies in English Literature, 1500-1900* 44 (4): 753–77. https://www.jstor.org/stable/3844535.
+* Rea, Christopher G. 2013. “‘He’Ll Roast All Subjects That May Need the Roasting’: Puck and Mr Punch in Nineteenth-Century China.” In *Asian Punches: A Transcultural Affair*, edited by Hans Harder and Barbara Mittler, 389–422. Transcultural Research – Heidelberg Studies on Asia and Europe in a Global Context. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-28607-0_16.
+* Spielmann, Marion Harry. 1895. *The History of Punch*. Gale Research Company.
+* Wechsler, Judith. 1983. “Editor’s Statement: The Issue of Caricature.” *Art Journal* 43 (4): 317–18. https://doi.org/10.1080/00043249.1983.10792248.
+* Wu, I-Wei. 2013. “Participating in Global Affairs: The Chinese Cartoon Monthly Shanghai Puck.” In *Asian Punches: A Transcultural Affair*, edited by Hans Harder and Barbara Mittler, 365–87. Transcultural Research – Heidelberg Studies on Asia and Europe in a Global Context. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-28607-0_15.
 
 
 #### Homework

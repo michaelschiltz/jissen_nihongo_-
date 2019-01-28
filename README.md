@@ -17,6 +17,8 @@ We will read and translate a recently published Japanese booklet on the modern J
 
 #### Topics to be covered:
 
+1. **Introductory session: Duus, Peter. 2001. “Presidential Address: Weapons of the Weak, Weapons of the Strong—The Development of the Japanese Political Cartoon.” The *Journal of Asian Studies* 60 (4): 965–97. https://doi.org/10.2307/2700017.**
+
 This course discusses chapters from the book 『風刺画で読み解く近代史』:
 
 * １章　幕末から明治１０年代まで（開国—日本、植民地化の危機！；戊辰戦争—西欧のにらみ合い　ほか）
@@ -44,8 +46,10 @@ Wu, I-Wei. 2013. “Participating in Global Affairs: The Chinese Cartoon Monthly
 
 #### Homework
 
-From session 2 onwards, small student groups will be assigned to introduce topics to be discussed. This may include both historical matter and/or their contemporary implications.
-Students are expected to:
+From session 2 onwards, students (or small student groups) will be assigned to introduce chapters of 『風刺画で読み解く近代史』 to be discussed. This may include both historical matter and/or their contemporary implications.
+
+*All* students are expected to:
+
 1. participate in the course as a whole: doing the essential reading for each week’s topic, and coming prepared to question and intervene.
 2. provide written and oral comments;
 3. research, write, present, and defend your argument and choice of topic to be discussed.
@@ -57,7 +61,7 @@ Undergraduate students often find it challenging to read scientific articles; an
 
 #### Grading System
 
-As this course (just as my other courses) [does not believe in the usefulness of final grades](https://www.youtube.com/watch?v=KShfEMy8UZQ), evaluation will be based on: reading notes, class discussions (other means of evaluation may be discussed with the students), and so in. There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations. They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
+As this course (just as my other courses) [does not believe in the usefulness of final grades](https://www.youtube.com/watch?v=KShfEMy8UZQ), evaluation will be based on: reading notes, class discussions (other means of evaluation may be discussed with the students), and so in. There is no paper to be written; instead, students are asked to prepare fluent translations of chapters to be discussed. They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
 Although all grading is characterized by an inherent opacity (if only for the simple reason that every presentation relates to different material and takes place in a different session), here are some simple rules:
 
 1. students presenting on several occasions will receive a higher grade

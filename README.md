@@ -1,4 +1,4 @@
-## jissen_nihongo_- 実践日本語
+## jissen_nihongo_II- 実践日本語
 
 ### Modern Japanese History in Political Cartoons - 風刺画から見た日本近代史
 

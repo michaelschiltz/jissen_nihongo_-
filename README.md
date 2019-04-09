@@ -69,7 +69,7 @@ Undergraduate students often find it challenging to read scientific articles; an
 As this course (just as my other courses) [does not believe in the usefulness of final grades](https://www.youtube.com/watch?v=KShfEMy8UZQ), evaluation will be based on: reading notes, class discussions (other means of evaluation may be discussed with the students), and so in. There is no paper to be written; instead, students are asked to _prepare fluent translations of chapters to be discussed_. They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
 Although all grading is characterized by an inherent opacity (if only for the simple reason that every presentation relates to different material and takes place in a different session), here are some simple rules:
 
-1. students presenting on several occasions will receive a higher grade
+1. All students will at least present during one of the sessions
 2. students making elaborate presentations (including audiovisual material, links to primary sources etc.) will be rewarded for the extra effort
 3. showing that you mastered the readings by partaking actively in the discussions is a plus.
 
